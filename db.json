@@ -1,0 +1,16 @@
+{
+  "orders": [
+    {
+      "id":1,
+      "name": "Slobodan",
+      "lastName": "Krdzev",
+      "tel": "+389 077 551 551",
+      "email": "slobodan@mail.com",
+      "city": "Gevgelija",
+      "adress": "Vancho Prke 18",
+      "product": "D-10",
+      "quantity": 1,
+      "total": 5300
+    }
+  ]
+}
